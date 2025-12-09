@@ -13,7 +13,7 @@ Les utilisateurs doivent être capables de :
 
 ### Capture d'écran
 
-![](./assets/images/preview.jpg)
+![](./assets/images/solution-preview.png)
 
 ## Mon Processus
 
