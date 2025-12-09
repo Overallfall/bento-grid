@@ -1,37 +1,37 @@
-# Bento Grid - Frontend Mentor Challenge
+# Bento Grid - Challenge Frontend Mentor
 
-This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+Ceci est une solution au [challenge Bento grid sur Frontend Mentor](https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj). Les challenges Frontend Mentor vous aident à améliorer vos compétences en codage en réalisant des projets réalistes.
 
-## Overview
+## Aperçu
 
-### The Challenge
+### Le Challenge
 
-Users should be able to:
+Les utilisateurs doivent être capables de :
 
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
+- Voir la mise en page optimale de l'interface en fonction de la taille de l'écran de leur appareil
+- Voir les états de survol et de focus pour tous les éléments interactifs de la page
 
-### Screenshot
+### Capture d'écran
 
 ![](./assets/images/preview.jpg)
 
-## My Process
+## Mon Processus
 
-### Built With
+### Construit avec
 
-- Semantic HTML5 markup
-- CSS custom properties
+- Balisage sémantique HTML5
+- Propriétés personnalisées CSS (Variables)
 - CSS Grid
-- Mobile-first workflow
+- Workflow Mobile-first
 
-## How to Use
+## Comment l'utiliser
 
-1. Clone the repository:
+1. Clonez le dépôt :
    ```bash
    git clone https://github.com/Overallfall/bento-grid.git
    ```
-2. Open `index.html` in your browser.
+2. Ouvrez `index.html` dans votre navigateur.
 
-## Author
+## Auteur
 
 - GitHub - [Overallfall](https://github.com/Overallfall)
